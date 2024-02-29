@@ -6,5 +6,5 @@ all he/she needs to know. The comments should usually include at least:
 
 PROJECT TITLE: Hello World
 PURPOSE OF PROJECT: My First Program
-VERSION or DATE: 8/16/2018
+DATE: 2018
 AUTHORS: Mustafa Nafia
